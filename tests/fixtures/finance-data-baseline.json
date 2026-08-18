@@ -1,0 +1,33 @@
+{
+  "sourceWorkbook": "demo-publico-anonimizado",
+  "valuationDate": "2026-07-31",
+  "balances": {
+    "caixa": 7200,
+    "mediolanum": 1800,
+    "total": 9000
+  },
+  "assumptions": {
+    "initialCash": 9000,
+    "monthlyIncome": 5000,
+    "coreSpend": 2800,
+    "recommendedSavings": 800
+  },
+  "counts": {
+    "months": 126,
+    "sections": 4,
+    "planningRows": 7,
+    "transactions": 0,
+    "categories": 0,
+    "merchants": 0
+  },
+  "range": {
+    "firstMonth": "2026-07",
+    "lastMonth": "2036-12",
+    "firstTransaction": "",
+    "lastTransaction": ""
+  },
+  "plannedTotals": {
+    "income": 656400,
+    "expense": 441000
+  }
+}
